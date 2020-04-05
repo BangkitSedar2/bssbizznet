@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="uphold_account">Tài khoản Uphold</string>
+    <string name="uphold_buy_dash_activity_title">Mua/Bán Dash với Uphold</string>
+    <string name="uphold_buy_dash_with_uphold">Mua Dash với tài khoản Uphold</string>
+    <string name="uphold_buy_dash_button">Mua Dash</string>
+    <string name="uphold_transfer_to_this_wallet_button">Chuyển từ Uphold</string>
+    <string name="uphold_link_account">Liên kết tài khoản Uphold</string>
+    <string name="uphold_account_dash_balance">Số dư Dash trên tài khoản Uphold của bạn là</string>
+    <string name="uphold_transfer_to_this_wallet">Chuyển Dash từ tài khoản Uphold của bạn đến ví này</string>
+    <string name="uphold_withdrawal_deduct_fee_disclaimer">Phí chuyển sẽ được trừ từ số lượng yêu cầu.</string>
+    <string name="uphold_withdrawal_instructions">Nhập số lượng muốn chuyển vào dưới đây</string>
+    <string name="uphold_withdrawal_success_title">Thành công</string>
+    <string name="uphold_withdrawal_success_message">Giao dịch của bạn đã được gửi và số lượng đó sẽ xuất hiện trong ví của bạn trong vòng vài phút.\n\n lMã giao dịch: %s</string>
+    <string name="uphold_otp_dialog_title">Nhập mã bảo mật 2 lớp</string>
+    <string name="uphold_transfer">Chuyển</string>
+    <string name="uphold_see_on_uphold">Xem trên Uphold</string>
+
+</resources>
