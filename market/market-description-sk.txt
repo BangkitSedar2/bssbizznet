@@ -1,0 +1,22 @@
+Dashy vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Dash Wallet je prvá mobilná Dash aplikácia a preukázateľne aj najbezpečnejšia.
+
+FUNKCIE:
+
+• Nie je potrebná žiadna registrácia ani žiadny účet.
+• Zobrazenie zostatku Dashov v DASH alebo mDASH.
+• Prepočet hodnoty Dashov do viacerých cudzích mien.
+• Posielanie a prijímanie Dashov pomocou NFC, QR kódov alebo Dash adries.
+• Adresár pre často používané Dash adresy.
+• V offline režime je platba možná aj cez Bluetooth.
+• Notifikácie v stavovej lište pri prijatí Dashov.
+• Widget s celkovým zostatkom.
+
+Viac informácií o Dashe
+http://darkcoin.io
+
+Ak chcete prispieť do projektu Dash Wallet nájdete ho na adrese
+https://github.com/HashEngineering/darkcoin-wallet
+
+Licencia: GPLv3
+Použitie len na vlastné riziko!
+http://www.gnu.org/licenses/gpl-3.0.en.html

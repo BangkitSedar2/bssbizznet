@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string name="help_wallet">
+<![CDATA[
+		<p>
+			W lewej górnej części ekranu wyświetlane jest saldo Dash oraz wartość w wybranej walucie narodowej.
+			Lokalną walutę możesz wybrać w ustawieniach aplikacji.
+		</p>
+		<p>
+			Kod QR w menu bocznym zawiera twój adres Dash, i może być zeskanowany przez innych odbiorców.
+			Kliknij na kod QR aby go powiększyć.
+		</p>
+		<p>
+			W centralnej części aplikacji wyświetlana jest historia transakcji. Na początku jest ona pusta.
+			Oczekujące transakcje są zaznaczane na szaro, aż nie zostaną zatwierdzone.
+			Kliknij na transakcję, aby dodać adres Dash do książki adresowej.		</p>
+	]]>
+	</string>
+	<string name="help_request_coins">
+<![CDATA[
+		<p>
+			Przy pomocy tego dialogu, możesz wysłać prośbę o Dashy do innej osoby, tak jakbyś wystawił jej rachunek do zapłacenia. Osoba ta powinna mieć zainstalowany Dash Wallet.
+		</p>
+		<p>
+			U góry, wpisz kwotę Dash, o którą chcesz zapytać.
+		</p>
+		<p>
+			Potem osoba wczyta wytworzony kod QR,
+			albo Ty możesz wysłać rachunek za pomocą guzika Opublikuj na listwie menu.
+			Odbiorca będzie musiał otworzyć Dash URL zawarty w wysłanej wiadomości.
+		</p>
+		<p>
+			Osoba, która otrzymała wysłane zapytanie otrzyma gotowy i wypełniony formularz wysyłania Dashów.
+			Jedyne co będzie musiała zrobić to potwierdzenie transakcji.
+		</p>
+	]]>
+	</string>
+	<string name="help_send_coins">
+<![CDATA[
+		<p>
+			Zainicjowałeś proces wysyłania monet.
+			Przyszedłeś tutaj przez główny ekran albo naciskając na Dash URL w Twojej mobilnej przeglądarce.
+		</p>
+		<p>
+			Wpisz adres Dash na który ma wpłynąć zapłata.
+			Wyświetlone zostaną podpowiedzi adresu z danych Twojej książki adresowej.
+			Możesz też skanować kody QR z adresami Dash albo zapytaniami Dash naciskając guzik QR w menu.
+		</p>
+		<p>
+			Poniżej widzisz ile Dash możesz wydać w tym momencie.
+			Rożnica ze stanem konta na głównym ekranie wynika z jeszcze nie potwierdzonych monet, które nie mogą jeszcze zostać wydane.
+		</p>
+		<p>
+			Na dole wpisz kwotę do zapłacenia chcesz zaoferować.
+		</p>
+		<p>
+			Możesz wpisać transakcje będąc offline.
+			Transakcja zostanie wysłana przy następnym starcie aplikacji.
+			Jeżeli chcesz żeby Twoja transakcja była wysłana jak najszybciej, upewnij się że jesteś połączony (np. z bezprzewodową siecią).
+		</p>
+		<p>
+			Uwaga:
+			Transakcja nie może być cofnięta!
+			Zawsze sprawdź adres odbiorcy.
+		</p>
+	]]>
+	</string>
+	<string name="help_safety">
+<![CDATA[
+		<p>
+			<b>Pare słów o bezpieczeństwie twoich Dash:</b>
+		</p>
+		<p>
+			Dash w Dash Wallet są magazynowane na urządzeniu.
+			<b>Jak zgubisz swoje urządzenie, zgubisz też swój portfel i Dashy.</b>
+			Zupełnie jak pieniądze w Twoim fizycznym portfelu.
+		</p>
+		<p>
+			<b>Zanim odinstalujesz Dash Wallet</b> (albo wymażesz dane aplikacji/wyczyścisz swoje urządzenie), <b>przetransferuj twoje Dash na inny portfel</b>.
+			Każdy pozostały Dash będzie stracony.
+		</p>
+		<p>
+			<b>Żadne transakcje nie mogą zostać cofnięte</b>.
+			Jeżeli wyślesz swoje Dashy, nie będzie już możliwości żeby je odzyskać, dopóki nie znasz odbiorcy, który musi godzić się na ich odesłanie.
+		</p>
+		<p>
+			<b>Uważaj na swoje urządzenie Android!</b>
+			Instaluje tylko aplikacje, którym ufasz.
+			Złośliwe aplikacje mogą próbować ukraść Twój portfel.
+		</p>
+		<p>
+			Utrzymuj niskie ryzyko!
+			<b>Używaj Dash Wallet do przetrzymywania jedynie małych ilości Dash</b> do użytku codziennego.
+		</p>
+	]]>
+	</string>
+
+</resources>
